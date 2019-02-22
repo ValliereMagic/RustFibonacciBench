@@ -1,0 +1,7 @@
+[package]
+name = "fibonacci_bench"
+version = "0.1.0"
+authors = ["ValliereMagic"]
+edition = "2018"
+
+[dependencies]
